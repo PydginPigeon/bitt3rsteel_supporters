@@ -8,9 +8,9 @@ Mod to add bitt3rsteel backers and supporters into HOI4 as characters, advisors,
 
 1) Download and unzip to the HOI4 Mods folder
 
-    Windows: C:\Users\<Username>\Documents\Paradox Interactive\Hearts of Iron IV
-    Mac OS: ~/Documents/Paradox Interactive/Hearts of Iron IV
-    Linux: ~/.local/share/Paradox Interactive/Hearts of Iron IV
+    Windows: C:\Users\<Username>\Documents\Paradox Interactive\Hearts of Iron IV  
+    Mac OS: ~/Documents/Paradox Interactive/Hearts of Iron IV  
+    Linux: ~/.local/share/Paradox Interactive/Hearts of Iron IV  
 
 2) Copy bittersteel-supporters-mod.rename to the mod folder which will be one level up
 
