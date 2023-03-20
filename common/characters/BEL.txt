@@ -1,0 +1,15 @@
+characters={
+	BEL_Bitt3rSteel={
+		name="Bitt3rSteel"
+		portraits={
+			civilian={
+				large="gfx/leaders/GFX_Portrait_Bitt3rSteel.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

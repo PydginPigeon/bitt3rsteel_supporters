@@ -1,0 +1,15 @@
+characters={
+	LUX_pydgin={
+		name="Pydgin"
+		portraits={
+			civilian={
+				large="gfx/leaders/GFX_Portrait_Pydgin.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

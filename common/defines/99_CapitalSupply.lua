@@ -1,0 +1,1 @@
+NDefines.NSupply.MIN_SURRENDER_LIMIT_TO_MOVE_SUPPLY_CAPITAL = 0 -- move capital supply hub anytime
