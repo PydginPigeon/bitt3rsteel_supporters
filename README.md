@@ -16,4 +16,6 @@ Mod to add bitt3rsteel backers and supporters into HOI4 as characters, advisors,
 
 3) Rename the extention from .rename to .mod
 
-4) Relaunch HOI4 and add mod to a playlist in the launcher.
+4) replace line 10 in bitt3rsteel-supporters-mod.mod to the correct folder path 
+
+5) Relaunch HOI4 and add mod to a playlist in the launcher.
